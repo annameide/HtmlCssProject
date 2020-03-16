@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D8E0FF;
+}
+
+a {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+p,
+tbody,
+tr,
+td,
+footer {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 60px;
+}
