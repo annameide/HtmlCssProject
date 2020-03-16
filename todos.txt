@@ -1,1 +1,2 @@
 develop own learning website step by step and secure html and css files here on github. 
+in other words try to get familiar with the work flow on github on an almost daily basis. 
